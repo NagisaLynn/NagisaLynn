@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there! こんにちは！မင်္ဂလာပါ! 👋 </h1>
+<h1 align="center"> Hi there!, こんにちは!, မင်္ဂလာပါ! 👋 </h1>
 <p align="center" align='right'>
   <a target="_blank" href="https://www.lynnnaing.dev/"> <!-- Website -->
-    <img src="https://img.shields.io/badge/Website-lynnnaing.dev-informational?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Webpage%20-%231572B6.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
     <img src="https://img.shields.io/badge/LinkedIn%20-%231572B6.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/coursera%20-%231572B6.svg?&style=for-the-badge&logo=Coursera&logoColor=white" />
   </a>
   <a target="_blank" href="https://stackoverflow.com/users/10222785/nagisa-lynn">  <!-- Stackoverflow -->
-    <img src="https://img.shields.io/badge/stackoverflow%20-%231572B6.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/SF%20-%231572B6.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.kaggle.com/nagisalynn">  <!-- Kaggle -->
     <img src="https://img.shields.io/badge/kaggle%20-%231572B6.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />
@@ -32,42 +32,118 @@
   <br/>
 </p>
 
-<h2 align="left">Technologies & Languages & Tools</h2>
 
-<p align="center" align='right'>
-  <a target="_blank" href="#">
-    <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-  </a>
-  <a target="_blank" href="#">
-    <img alt="NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=%2ENET&logoColor=white" />
-  </a>
-  <a target="_blank" href="#">
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&textColor=black" />
-  </a>
-  <a target="_blank" href="#">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a target="_blank" href="#">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
-  </a>
-  <a target="_blank" href="#">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  </a>
-  <a target="_blank" href="#">
-    <img alt="VS" src="https://img.shields.io/badge/-VS-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  </a>
-  <a target="_blank" href="#">
-    <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
-  </a>
-  <a target="_blank" href="#">
-    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
-<h2 align="center">GitHub Stats</h2>
+
+<h2 align="left">Development Stack</h2>
+
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Services</th>
+    <th>Tools</th>
+    <th>Misc</th>
+  </tr>
+  <tr>
+    <td> <!-- Languages --->
+      <a target="_blank" href="#">
+        <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%231572B6.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Python" src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="HTML5" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Css3" src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+    </td> <!-- End of Languages --->
+    <td> <!-- Frameworks --->
+      <a target="_blank" href="#">
+        <img alt="NET" src="https://img.shields.io/badge/-.NET-%231572B6?style=for-the-badge&logo=%2ENET&logoColor=white"/>
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-%231572B6?style=for-the-badge&logo=Xamarin&logoColor=white"/>
+      </a>
+      <a target="_blank" href="#">
+        <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=universalwindowplatform&logoColor=white"/>
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%231572B6?style=for-the-badge&logo=ionic&logoColor=white"/>
+      </a>
+    </td> <!-- End of Frameworks --->
+    <td> <!-- Services --->
+      <a target="_blank" href="#">
+        <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google Cloud Platform-%231572B6.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%231572B6.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Azure" src="https://img.shields.io/badge/Azure-%231572B6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
+      </a>
+    </td>  <!-- End of Services --->
+    <td>  <!-- Tools --->
+      <a target="_blank" href="#">
+        <img alt="GitHub" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Git" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Visual Studio" src="https://img.shields.io/badge/visual studio%20-%231572B6.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
+      </a><a target="_blank" href="#">
+        <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%231572B6.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Xcode" src="https://img.shields.io/badge/Xcode%20-%231572B6.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Android Studio" src="https://img.shields.io/badge/android studio%20-%231572B6.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="SQL Server" src="https://img.shields.io/badge/MS sql server%20-%231572B6.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      </a>
+    </td> <!-- End of Tools --->
+    <td> <!-- Mics --->
+      <a target="_blank" href="#">
+        <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=Microsoftwindow&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=www&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Mobile" src="https://img.shields.io/badge/mobile%20-%231572B6.svg?&style=for-the-badge&logo=mobile&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Microsoft Office" src="https://img.shields.io/badge/office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
+      </a>
+    </td> <!-- End of Mics --->
+  </tr>
+</table>
+
+<h2 align="left">GitHub Stats</h2>
 <p align = "center">
+  
+  <!--<a href="https://stackoverflow.com/users/10222785/nagisa-lynn">
+    <Img src = "https://github-readme-stackoverflow.vercel.app/?userID=10222785&theme=tokyonight"/>
+  </a>-->
   <a href="https://https://github.com/NagisaLynn">
-    <img src = "https://github-readme-stats.vercel.app/api?username=NagisaLynn&show_icons=true&line_height=27&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api?username=NagisaLynn&show_icons=true&line_height=27&theme=tokyonight" />
   </a>
   <!--<a href="https://github.com/NagisaLynn">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NagisaLynn&hide=css,html&theme=tokyonight">
