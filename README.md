@@ -39,14 +39,8 @@
 
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Frameworks</th>
-    <th>Services</th>
-    <th>Tools</th>
-    <th>Misc</th>
-  </tr>
-  <tr>
-    <td> <!-- Languages --->
+    <td>Languages</td>
+     <td> <!-- Languages --->
       <a target="_blank" href="#">
         <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%231572B6.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
       </a>
@@ -66,6 +60,10 @@
         <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
       </a>
     </td> <!-- End of Languages --->
+  </tr>
+  
+  <tr>
+   <th>Frameworks</th>
     <td> <!-- Frameworks --->
       <a target="_blank" href="#">
         <img alt="NET" src="https://img.shields.io/badge/-.NET-%231572B6?style=for-the-badge&logo=%2ENET&logoColor=white"/>
@@ -83,6 +81,10 @@
         <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%231572B6?style=for-the-badge&logo=ionic&logoColor=white"/>
       </a>
     </td> <!-- End of Frameworks --->
+  </tr>
+  
+  <tr>
+    <th>Services</th>
     <td> <!-- Services --->
       <a target="_blank" href="#">
         <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google Cloud Platform-%231572B6.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" /> 
@@ -97,6 +99,28 @@
         <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
       </a>
     </td>  <!-- End of Services --->
+  </tr>
+  
+   <tr>
+    <th>Databases</th>
+    <td>  <!-- Databases --->
+      <a target="_blank" href="#">
+        <img alt="SQL Server" src="https://img.shields.io/badge/MS sql server%20-%231572B6.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra%20-%231572B6.svg?&style=for-the-badge&logo=ApacheCassandraDB&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
+      </a>
+    </td> <!-- End of Databases --->
+  </tr>
+  
+  <tr>
+    <th>Tools</th>
     <td>  <!-- Tools --->
       <a target="_blank" href="#">
         <img alt="GitHub" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -116,21 +140,37 @@
         <img alt="Android Studio" src="https://img.shields.io/badge/android studio%20-%231572B6.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />
       </a>
       <a target="_blank" href="#">
-        <img alt="SQL Server" src="https://img.shields.io/badge/MS sql server%20-%231572B6.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <img alt="Blender" src="https://img.shields.io/badge/blender%20-%231572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
       </a>
     </td> <!-- End of Tools --->
+  </tr>
+  
+  <tr>
+    <th>Misc</th>
     <td> <!-- Mics --->
       <a target="_blank" href="#">
-        <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=Microsoftwindow&logoColor=white" /> 
+        <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=microsoftwindow10&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=www&logoColor=white" /> 
+        <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=worldwideweb&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="Mobile" src="https://img.shields.io/badge/mobile%20-%231572B6.svg?&style=for-the-badge&logo=mobile&logoColor=white" /> 
+        <img alt="Mobile" src="https://img.shields.io/badge/mobile%20-%231572B6.svg?&style=for-the-badge&logo=appleiphone&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="Microsoft Office" src="https://img.shields.io/badge/office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="VR" src="https://img.shields.io/badge/VR%20-%231572B6.svg?&style=for-the-badge&logo=vr&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="AI" src="https://img.shields.io/badge/AI%20-%231572B6.svg?&style=for-the-badge&logo=AI&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="IoT" src="https://img.shields.io/badge/iot%20-%231572B6.svg?&style=for-the-badge&logo=iot&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Game Dev" src="https://img.shields.io/badge/game dev%20-%231572B6.svg?&style=for-the-badge&logo=xboxcontroller&logoColor=white" /> 
       </a>
     </td> <!-- End of Mics --->
   </tr>
