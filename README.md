@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/coursera%20-%231572B6.svg?&style=for-the-badge&logo=Coursera&logoColor=white" />
   </a>
   <a target="_blank" href="https://stackoverflow.com/users/10222785/nagisa-lynn">  <!-- Stackoverflow -->
-    <img src="https://img.shields.io/badge/SF%20-%231572B6.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOF%20-%231572B6.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.kaggle.com/nagisalynn">  <!-- Kaggle -->
     <img src="https://img.shields.io/badge/kaggle%20-%231572B6.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />
@@ -32,8 +32,14 @@
   <br/>
 </p>
 
+<h2 align="left">Interest & Hobbies</h2>
 
-
+<p align="left" align='right'>
+  <samp>
+    <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
+  </samp> 
+</p>
+<br/>
 
 <h2 align="left">Development Stack</h2>
 
@@ -175,6 +181,18 @@
     </td> <!-- End of Mics --->
   </tr>
 </table>
+<br/>
+
+<!--<h2 align="left">Achievements</h2>
+
+<p align="left" align='right'>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/🎌 Language-Burmese (Native)-informational?style=for-the-badge&logo=Language&logoColor=white" />
+    <img src="https://img.shields.io/badge/English (Professional Lvl)-informational?style=for-the-badge&logo=Language&logoColor=white" />
+    <img src="https://img.shields.io/badge/Japanese (Professional Lvl)-informational?style=for-the-badge&logo=Language&logoColor=white" />
+  </a>
+</p>
+<br/>-->
 
 <h2 align="left">GitHub Stats</h2>
 <p align = "center">
