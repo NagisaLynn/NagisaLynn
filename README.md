@@ -24,18 +24,20 @@
 </p>
 
 <p align="center">
-  <samp>I'm <b>Lynn Naing Zaw (@NagisaLynn)</b> - a .NET Developer, Tech Enthusiast and Software Architect from Aungban, Myanmar. 
-    <br>I currently working in Singapore. I mostly deal with C#, Xamarin and REST API software development stack these days. 
-    <br>I have 4+ years of development experience in architecting, designing & development of web cross-platform mobile and desktop applications across various domains using mainly .NET and Web technologies.
+  <samp>I'm <b>Lynn Naing Zaw (@NagisaLynn)</b> - a .NET Developer, Tech Enthusiast and Software Architect currently working in Singapore. 
+    <br>I'm Third-Generation Chinese, born and raised in Aungban, Southern Shan State, Myanmar. I have 4+ years of development experience in architecting, designing & development of web cross-platform mobile and desktop applications across various domains using mainly .NET and Web technologies. I mostly deal with C#, Xamarin and REST API software development stack these days. 
   </samp>
   <br/>
   <br/>
 </p>
 
-<h2 align="left">Interest & Hobbies</h2>
+<h2 align="left">Personal Info</h2>
 
 <p align="left" align='right'>
-  <samp>
+  <samp> 
+    <br> 🔭 Interest : I am currently learning AI 🌐, Machine Learning 🖥️.
+    <br> 🚲 Sport : I do sport occasionally Cycling 🚲, Tennis 🎾
+    <br> 🎮 Game : I am a big fan of Civilization 6, Anno 1800 & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
   </samp> 
 </p>
