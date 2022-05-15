@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there!, こんにちは!, မင်္ဂလာပါ! 👋 </h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://www.lynnnaing.dev/"> <!-- Website -->
+  <!--<a target="_blank" href="https://www.lynnnaing.dev/"> 
     <img src="https://img.shields.io/badge/Webpage%20-%231572B6.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
-  </a>
+  </a>--><!-- Website -->
   <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
     <img src="https://img.shields.io/badge/LinkedIn%20-%231572B6.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
@@ -55,6 +55,9 @@
       <a target="_blank" href="#">
         <img alt="Python" src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
       </a>
+       <a target="_blank" href="#">
+        <img alt="R" src="https://img.shields.io/badge/R%20-%231572B6.svg?&style=for-the-badge&logo=R&logoColor=white" />
+      </a>
       <a target="_blank" href="#">
         <img alt="HTML5" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" />
       </a>
@@ -66,6 +69,9 @@
       </a>
       <a target="_blank" href="#">
         <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+       <a target="_blank" href="#">
+        <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%231572B6.svg?&style=for-the-badge&logo=Typescript&logoColor=white" />
       </a>
     </td> <!-- End of Languages --->
   </tr>
@@ -88,6 +94,9 @@
       <a target="_blank" href="#">
         <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%231572B6?style=for-the-badge&logo=ionic&logoColor=white"/>
       </a>
+      <a target="_blank" href="#">
+        <img alt="Cordova" src="https://img.shields.io/badge/Cordova-%231572B6?style=for-the-badge&logo=ApacheCordova&logoColor=white"/>
+      </a>
     </td> <!-- End of Frameworks --->
   </tr>
   
@@ -105,6 +114,9 @@
       </a>
       <a target="_blank" href="#">
         <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Team Foundation Service" src="https://img.shields.io/badge/Team Foundation Service-%231572B6.svg?&style=for-the-badge&logo=TeamFoundationService&logoColor=white" /> 
       </a>
     </td>  <!-- End of Services --->
   </tr>
@@ -148,7 +160,10 @@
         <img alt="Android Studio" src="https://img.shields.io/badge/android studio%20-%231572B6.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />
       </a>
       <a target="_blank" href="#">
-        <img alt="Blender" src="https://img.shields.io/badge/blender%20-%231572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
+        <img alt="IIS" src="https://img.shields.io/badge/blender%20-%231572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Blender" src="https://img.shields.io/badge/IIS%20-%231572B6.svg?&style=for-the-badge&logo=IIS&logoColor=white" />
       </a>
     </td> <!-- End of Tools --->
   </tr>
@@ -157,13 +172,19 @@
     <th>Misc</th>
     <td> <!-- Mics --->
       <a target="_blank" href="#">
+        <img alt="RESTful API" src="https://img.shields.io/badge/RESTful API%20-%231572B6.svg?&style=for-the-badge&logo=RESTfulAPI&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
         <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=microsoftwindow10&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=worldwideweb&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="Mobile" src="https://img.shields.io/badge/mobile%20-%231572B6.svg?&style=for-the-badge&logo=appleiphone&logoColor=white" /> 
+        <img alt="Android" src="https://img.shields.io/badge/Android%20-%231572B6.svg?&style=for-the-badge&logo=Android&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="iOS" src="https://img.shields.io/badge/iOS%20-%231572B6.svg?&style=for-the-badge&logo=iOS&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="Microsoft Office" src="https://img.shields.io/badge/office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
@@ -179,6 +200,9 @@
       </a>
       <a target="_blank" href="#">
         <img alt="Game Dev" src="https://img.shields.io/badge/game dev%20-%231572B6.svg?&style=for-the-badge&logo=xboxcontroller&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%231572B6.svg?&style=for-the-badge&logo=jQuery&logoColor=white" /> 
       </a>
     </td> <!-- End of Mics --->
   </tr>
