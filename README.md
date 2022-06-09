@@ -86,7 +86,10 @@
         <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-%231572B6?style=for-the-badge&logo=Xamarin&logoColor=white"/>
       </a>
       <a target="_blank" href="#">
-        <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=universalwindowplatform&logoColor=white"/>
+        <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=.NETMAUI&logoColor=white"/>
+      </a>
+      <a target="_blank" href="#">
+        <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=universalwindowsplatform&logoColor=white"/>
       </a>
       <a target="_blank" href="#">
         <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -116,7 +119,16 @@
         <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="Team Foundation Service" src="https://img.shields.io/badge/Team Foundation Service-%231572B6.svg?&style=for-the-badge&logo=TeamFoundationService&logoColor=white" /> 
+        <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-%231572B6.svg?&style=for-the-badge&logo=AzureDevOps&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Swagger" src="https://img.shields.io/badge/Swagger-%231572B6.svg?&style=for-the-badge&logo=Swagger&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%231572B6.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" /> 
       </a>
     </td>  <!-- End of Services --->
   </tr>
@@ -131,7 +143,7 @@
         <img alt="MySQL" src="https://img.shields.io/badge/MySql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
       </a>
       <a target="_blank" href="#">
-        <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra%20-%231572B6.svg?&style=for-the-badge&logo=ApacheCassandraDB&logoColor=white" />
+        <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra%20-%231572B6.svg?&style=for-the-badge&logo=ApacheCassandra&logoColor=white" />
       </a>
       <a target="_blank" href="#">
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
@@ -163,22 +175,25 @@
         <img alt="IIS" src="https://img.shields.io/badge/blender%20-%231572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
       </a>
       <a target="_blank" href="#">
-        <img alt="Blender" src="https://img.shields.io/badge/IIS%20-%231572B6.svg?&style=for-the-badge&logo=IIS&logoColor=white" />
+        <img alt="Blender" src="https://img.shields.io/badge/IIS%20-%231572B6.svg?&style=for-the-badge&logo=Internetinformationservices&logoColor=white" />
+      </a>
+       <a target="_blank" href="#">
+        <img alt="Unity" src="https://img.shields.io/badge/unity%20-%231572B6.svg?&style=for-the-badge&logo=unity&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Microsoft Office" src="https://img.shields.io/badge/office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
       </a>
     </td> <!-- End of Tools --->
   </tr>
   
   <tr>
-    <th>Misc</th>
-    <td> <!-- Mics --->
+    <th>Platform</th>
+    <td> <!-- Platform --->
       <a target="_blank" href="#">
-        <img alt="RESTful API" src="https://img.shields.io/badge/RESTful API%20-%231572B6.svg?&style=for-the-badge&logo=RESTfulAPI&logoColor=white" /> 
+        <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=microsoftwindow10&logoColor=white" /> 
-      </a>
-      <a target="_blank" href="#">
-        <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=worldwideweb&logoColor=white" /> 
+        <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="Android" src="https://img.shields.io/badge/Android%20-%231572B6.svg?&style=for-the-badge&logo=Android&logoColor=white" /> 
@@ -187,24 +202,30 @@
         <img alt="iOS" src="https://img.shields.io/badge/iOS%20-%231572B6.svg?&style=for-the-badge&logo=iOS&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="Microsoft Office" src="https://img.shields.io/badge/office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
+        <img alt="VR" src="https://img.shields.io/badge/VR%20-%231572B6.svg?&style=for-the-badge&logo=virtualreality&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
-        <img alt="VR" src="https://img.shields.io/badge/VR%20-%231572B6.svg?&style=for-the-badge&logo=vr&logoColor=white" /> 
-      </a>
-      <a target="_blank" href="#">
-        <img alt="AI" src="https://img.shields.io/badge/AI%20-%231572B6.svg?&style=for-the-badge&logo=AI&logoColor=white" /> 
+        <img alt="AI" src="https://img.shields.io/badge/AI%20-%231572B6.svg?&style=for-the-badge&logo=I&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="IoT" src="https://img.shields.io/badge/iot%20-%231572B6.svg?&style=for-the-badge&logo=iot&logoColor=white" /> 
       </a>
+    </td> <!-- End of Platform --->
+  </tr>
+  
+  <tr>
+    <th>Misc</th>
+    <td> <!-- Misc --->
       <a target="_blank" href="#">
-        <img alt="Game Dev" src="https://img.shields.io/badge/game dev%20-%231572B6.svg?&style=for-the-badge&logo=xboxcontroller&logoColor=white" /> 
+        <img alt="RESTful API" src="https://img.shields.io/badge/RESTful API%20-%231572B6.svg?&style=for-the-badge&logo=RESTfulAPI&logoColor=white" /> 
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Game Dev" src="https://img.shields.io/badge/game dev%20-%231572B6.svg?&style=for-the-badge&logo=playstationcontroller&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-%231572B6.svg?&style=for-the-badge&logo=jQuery&logoColor=white" /> 
       </a>
-    </td> <!-- End of Mics --->
+    </td> <!-- End of Misc --->
   </tr>
 </table>
 <br/>
