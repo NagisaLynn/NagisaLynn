@@ -35,8 +35,9 @@
 
 <p align="left" align='right'>
   <samp> 
+    <br> 🤪 Personality : INFP(core, natural state), INTJ(working mode) & Enneagram Type 5 Wing 6.
     <br> 🔭 Interest : I am currently learning AI 🌐, Machine Learning 🖥️.
-    <br> 🚲 Sport : I do sport occasionally Cycling 🚲, Tennis 🎾
+    <br> 🚲 Sport : I do sport occasionally Cycling 🚲, Running 🏃.
     <br> 🎮 Game : I am a big fan of Civilization 6, Anno 1800 & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
   </samp> 
@@ -99,6 +100,9 @@
       </a>
       <a target="_blank" href="#">
         <img alt="Cordova" src="https://img.shields.io/badge/Cordova-%231572B6?style=for-the-badge&logo=ApacheCordova&logoColor=white"/>
+      </a>
+       <a target="_blank" href="#">
+        <img alt="NUnit" src="https://img.shields.io/badge/NUnit-%231572B6?style=for-the-badge&logo=NUnit&logoColor=white"/>
       </a>
     </td> <!-- End of Frameworks --->
   </tr>
