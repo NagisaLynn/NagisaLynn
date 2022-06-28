@@ -42,6 +42,8 @@
     <br> 🚲 Sport : I do sport occasionally Cycling 🚲, Running 🏃.
     <br> 🎮 Game : I am a big fan of Civilization 6, Anno 1800, Monster Hunter & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
+    <!-- Curios, Jack of all trades in many area of field (such as Chemistry, Biology,  )-->
+    <!-- With enough invested time, I can be master of all -->
   </samp> 
 </p>
 <br/>
@@ -90,6 +92,9 @@
       </a>
       <a target="_blank" href="#">
         <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=.NETMAUI&logoColor=white"/>
+      </a>
+      <a target="_blank" href="#">
+        <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%231572B6?style=for-the-badge&logo=Blazor&logoColor=white"/>
       </a>
       <a target="_blank" href="#">
         <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=universalwindowsplatform&logoColor=white"/>
