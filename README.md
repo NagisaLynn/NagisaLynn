@@ -44,6 +44,7 @@
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
     <!-- Curios, Jack of all trades in many area of field (such as Chemistry, Biology,  )-->
     <!-- With enough invested time, I can be master of all -->
+    <!-- Kaizen -->
   </samp> 
 </p>
 <br/>
@@ -97,7 +98,7 @@
         <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%231572B6?style=for-the-badge&logo=Blazor&logoColor=white"/>
       </a>
       <a target="_blank" href="#">
-        <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=universalwindowsplatform&logoColor=white"/>
+        <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=windows&logoColor=white"/>
       </a>
       <a target="_blank" href="#">
         <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -109,7 +110,7 @@
         <img alt="Cordova" src="https://img.shields.io/badge/Cordova-%231572B6?style=for-the-badge&logo=ApacheCordova&logoColor=white"/>
       </a>
        <a target="_blank" href="#">
-        <img alt="NUnit" src="https://img.shields.io/badge/NUnit-%231572B6?style=for-the-badge&logo=NUnit&logoColor=white"/>
+        <img alt="NUnit" src="https://img.shields.io/badge/NUnit-%231572B6?style=for-the-badge&logo=Nunit&logoColor=white"/>
       </a>
     </td> <!-- End of Frameworks --->
   </tr>
@@ -157,6 +158,9 @@
         <img alt="MySQL" src="https://img.shields.io/badge/MySql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
       </a>
       <a target="_blank" href="#">
+        <img alt="SQLite" src="https://img.shields.io/badge/SQLite%20-%231572B6.svg?&style=for-the-badge&logo=SQLite&logoColor=white" />
+      </a>
+      <a target="_blank" href="#">
         <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra%20-%231572B6.svg?&style=for-the-badge&logo=ApacheCassandra&logoColor=white" />
       </a>
       <a target="_blank" href="#">
@@ -186,10 +190,10 @@
         <img alt="Android Studio" src="https://img.shields.io/badge/android studio%20-%231572B6.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />
       </a>
       <a target="_blank" href="#">
-        <img alt="IIS" src="https://img.shields.io/badge/blender%20-%231572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
+        <img alt="IIS" src="https://img.shields.io/badge/iis%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
       </a>
       <a target="_blank" href="#">
-        <img alt="Blender" src="https://img.shields.io/badge/IIS%20-%231572B6.svg?&style=for-the-badge&logo=Internetinformationservices&logoColor=white" />
+        <img alt="Blender" src="https://img.shields.io/badge/Blender%20-%231572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
       </a>
        <a target="_blank" href="#">
         <img alt="Unity" src="https://img.shields.io/badge/unity%20-%231572B6.svg?&style=for-the-badge&logo=unity&logoColor=white" /> 
