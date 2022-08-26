@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there!, こんにちは!, မင်္ဂလာပါ! 👋 </h1>
 <p align="center" align='right'>
-  <!--<a target="_blank" href="https://www.lynnnaing.dev/"> 
-    <img src="https://img.shields.io/badge/Webpage%20-%231572B6.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
-  </a>--><!-- Website -->
+  <a target="_blank" href="https://www.lynnnaing.dev/"> 
+    <img src="https://img.shields.io/badge/lynnnaing.dev%20-%231572B6.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
+  </a><!-- Website -->
   <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
     <img src="https://img.shields.io/badge/LinkedIn%20-%231572B6.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
@@ -25,9 +25,9 @@
 
 <p align="center">
   <samp>I'm <b>Lynn Naing Zaw (@NagisaLynn)</b> - a .NET Developer, Tech Enthusiast and Software Architect currently working in Singapore. 
-    <br>I'm Third-Generation Chinese, born and raised in Aungban, Southern Shan State, Myanmar. 
-    <br>I have 4+ years of development experience in architecting, designing & development of web cross-platform mobile and desktop applications across various domains using mainly .NET and Web technologies. 
-    <br>I mostly deal with C#, Xamarin and REST API software development stack these days. 
+    <br>Third-Generation Chinese, born and raised in Aungban, Southern Shan State, Myanmar. 
+    <br>4+ years of development experience in architecting, designing & development of web cross-platform mobile and desktop applications across various domains using mainly .NET and Web technologies. 
+    <br>Mostly deal with C#, Xamarin and REST API software development stack these days. 
   </samp>
   <br/>
   <br/>
@@ -39,12 +39,10 @@
   <samp> 
     <br> 🤪 Personality : INFP(core, natural state), INTJ(working mode) & Enneagram Type 5 Wing 6.
     <br> 🔭 Interest : I am currently learning AI 🌐, Machine Learning 🖥️.
-    <br> 🚲 Sport : I do sport occasionally Cycling 🚲, Running 🏃.
-    <br> 🎮 Game : I am a big fan of Civilization 6, Anno 1800, Monster Hunter & VR/AR Games.
+    <br> 🚲 Sport : Occasionally Cycling 🚲, Running 🏃, Tennis 🎾.
+    <br> 🎮 Game : A big fan of Civilization 6, Anno 1800, Monster Hunter, Total War: Warhammer & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
-    <!-- Curios, Jack of all trades in many area of field (such as Chemistry, Biology,  )-->
-    <!-- With enough invested time, I can be master of all -->
-    <!-- Kaizen -->
+    <br> 😎 Attitude : Kaizen, Curious, Jack of all trades with enough invested time, I can be master of all 😎. 
   </samp> 
 </p>
 <br/>
