@@ -26,8 +26,12 @@
 <p align="center">
   <samp>I'm <b>Lynn Naing Zaw (@NagisaLynn)</b> - a .NET Developer, Tech Enthusiast and Software Architect currently working in Singapore. 
     <br>Third-Generation Chinese, born and raised in Aungban, Southern Shan State, Myanmar. 
-    <br>4+ years of development experience in architecting, designing & development of web cross-platform mobile and desktop applications across various domains using mainly .NET and Web technologies. 
-    <br>Mostly deal with C#, Xamarin and REST API software development stack these days. 
+    <br>
+    <br>As a passionate and driven software developer with a Bachelor of Science(Hons) in Computer Science from Coventry University and over 5 years of experience in the industry, I have a strong foundation in a wide range of programming languages and frameworks.
+    <br>
+    <br>My expertise lies in full-stack development using languages such as Javascript, Python, and C#, as well as frameworks like Angular, Django and .NET. I am a proactive and detail-oriented team player with a passion for continuous learning and staying up-to-date on the latest technologies.
+    <br>
+    <br>Mostly deal with Microsoft ecosystem at work while exploring on other programming lanugage and development stack at free time.
   </samp>
   <br/>
   <br/>
@@ -233,7 +237,7 @@
     <th>Misc</th>
     <td> <!-- Misc --->
       <a target="_blank" href="#">
-        <img alt="RESTful API" src="https://img.shields.io/badge/RESTful API%20-%231572B6.svg?&style=for-the-badge&logo=RESTfulAPI&logoColor=white" /> 
+        <img alt="OpenAPI" src="https://img.shields.io/badge/RESTful API%20-%231572B6.svg?&style=for-the-badge&logo=RESTfulAPI&logoColor=white" /> 
       </a>
       <a target="_blank" href="#">
         <img alt="Game Dev" src="https://img.shields.io/badge/game dev%20-%231572B6.svg?&style=for-the-badge&logo=playstationcontroller&logoColor=white" /> 
