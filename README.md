@@ -42,8 +42,8 @@
 <p align="left" align='right'>
   <samp> 
     <br> 🤪 Personality : INFP(core, natural state), INTJ(working mode) & Enneagram Type 5 Wing 6.
-    <br> 🔭 Interest : I am currently learning AI 🌐, Machine Learning 🖥️.
-    <br> 🚲 Sport : Occasionally Cycling 🚲, Running 🏃, Tennis 🎾.
+    <br> 🔭 Learning : Currently learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Process Automation 🤖.
+    <br> 🎾 Sport : Occasionally Cycling 🚲, Running 🏃, Swimming 🏊.
     <br> 🎮 Game : A big fan of Civilization 6, Anno 1800, Monster Hunter, Total War: Warhammer & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
     <br> 😎 Attitude : Kaizen, Curious, Jack of all trades with enough invested time, I can be master of all 😎. 
@@ -270,9 +270,9 @@
   <a href="https://https://github.com/NagisaLynn">
     <img src = "https://github-readme-stats.vercel.app/api?username=NagisaLynn&show_icons=true&line_height=27&theme=tokyonight" />
   </a>
-  <!--<a href="https://github.com/NagisaLynn">
+  <a href="https://github.com/NagisaLynn">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NagisaLynn&hide=css,html&theme=tokyonight">
-  </a>-->
+  </a>
 </p>
 
 
