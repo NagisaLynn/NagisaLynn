@@ -267,11 +267,11 @@
   <!--<a href="https://stackoverflow.com/users/10222785/nagisa-lynn">
     <Img src = "https://github-readme-stackoverflow.vercel.app/?userID=10222785&theme=tokyonight"/>
   </a>-->
-  <a href="https://https://github.com/NagisaLynn">
-    <img src = "https://github-readme-stats.vercel.app/api?username=NagisaLynn&show_icons=true&line_height=27&theme=tokyonight" />
+  <a href="https://github.com/NagisaLynn">
+    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api?username=NagisaLynn&show_icons=true&line_height=27&theme=tokyonight" />
   </a>
   <a href="https://github.com/NagisaLynn">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NagisaLynn&hide=css,html&theme=tokyonight">
+    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api/top-langs/?username=NagisaLynn&hide=css,html&theme=tokyonight">
   </a>
 </p>
 
