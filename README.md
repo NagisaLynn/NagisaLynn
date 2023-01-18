@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there!, こんにちは!, မင်္ဂလာပါ! 👋 </h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://www.lynnnaing.dev/"> 
+  <a target="_blank" href="https://lynnnaing.dev/"> 
     <img src="https://img.shields.io/badge/lynnnaing.dev%20-%231572B6.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   </a><!-- Website -->
   <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
@@ -18,20 +18,20 @@
   <a target="_blank" href="https://www.kaggle.com/nagisalynn">  <!-- Kaggle -->
     <img src="https://img.shields.io/badge/kaggle%20-%231572B6.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
+  <a target="_blank" href="https://www.credly.com/users/lynn-naing-zaw/badges">  <!-- Credly -->
+    <img src="https://img.shields.io/badge/credly%20-%231572B6.svg?&style=for-the-badge&logo=Credly&logoColor=white" />
+  </a>
   <a target="_blank" href="#">  <!-- Count -->
     <img src="https://komarev.com/ghpvc/?username=NagisaLynn&style=for-the-badge" style="max-width: 100%;">
   </a>
 </p>
 
-<p align="center">
-  <samp>I'm <b>Lynn Naing Zaw (@NagisaLynn)</b> - a .NET Developer, Tech Enthusiast and Software Architect currently working in Singapore. 
-    <br>Third-Generation Chinese, born and raised in Aungban, Southern Shan State, Myanmar. 
-    <br>
-    <br>As a passionate and driven software developer with a Bachelor of Science(Hons) in Computer Science from Coventry University and over 5 years of experience in the industry, I have a strong foundation in a wide range of programming languages and frameworks.
-    <br>
-    <br>My expertise lies in full-stack development using languages such as Javascript, Python, and C#, as well as frameworks like Angular, Django and .NET. I am a proactive and detail-oriented team player with a passion for continuous learning and staying up-to-date on the latest technologies.
-    <br>
-    <br>Mostly deal with Microsoft ecosystem at work while exploring on other programming lanugage and development stack at free time.
+<p align="left">
+  <samp>* I'm <b>Lynn Naing Zaw (@NagisaLynn)</b> - a .NET Developer, Tech Enthusiast and Software Architect currently working in Singapore. 
+    <br>* Third-Generation Chinese, born and raised in Aungban, Southern Shan State, Myanmar. 
+    <br>* As a passionate and driven software developer with a Bachelor of Science (Hons) in Computer Science from Coventry University and over 5 years of experience in the industry.
+    <br>* My expertise lies in full-stack development using languages such as Javascript, Python, and C#, as well as frameworks like Angular, Django and .NET.
+    <br>* Mostly deal with Microsoft ecosystem at work while exploring on other programming language, development stack, continuous learning and staying up to date on the latest technologies at free time.
   </samp>
   <br/>
   <br/>
@@ -41,12 +41,12 @@
 
 <p align="left" align='right'>
   <samp> 
-    <br> 🤪 Personality : INFP(core, natural state), INTJ(working mode) & Enneagram Type 5 Wing 6.
+    🤪 Personality : INFP(core, natural state), INTJ(working mode) & Enneagram Type 5 Wing 6.
     <br> 🔭 Learning : Currently learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Process Automation 🤖.
     <br> 🎾 Sport : Occasionally Cycling 🚲, Running 🏃, Swimming 🏊.
     <br> 🎮 Game : A big fan of Civilization 6, Anno 1800, Monster Hunter, Total War: Warhammer & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
-    <br> 😎 Attitude : Kaizen, Curious, Jack of all trades with enough invested time, I can be master of all 😎. 
+    <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
   </samp> 
 </p>
 <br/>
@@ -267,12 +267,20 @@
   <!--<a href="https://stackoverflow.com/users/10222785/nagisa-lynn">
     <Img src = "https://github-readme-stackoverflow.vercel.app/?userID=10222785&theme=tokyonight"/>
   </a>-->
+ 
   <a href="https://github.com/NagisaLynn">
-    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api?username=NagisaLynn&show_icons=true&line_height=27&theme=tokyonight" />
+    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api?username=NagisaLynn&count_private=true&show_icons=true&line_height=27&theme=tokyonight" />
   </a>
   <a href="https://github.com/NagisaLynn">
-    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api/top-langs/?username=NagisaLynn&hide=css,html&theme=tokyonight">
+    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api/top-langs/?username=NagisaLynn&count_private=true&layout=compact&line_height=27&theme=tokyonight">
   </a>
+</p>
+
+<h2 align ="left">Tools & Power By</h2>
+<p align = "left">
+  Badge icon by <a href="https://shields.io/">https://shields.io/</a>
+  <br>Brand logo by <a href="https://simpleicons.org/">https://simpleicons.org/</a>
+  <br>Github Readme Stats by anuraghazra <a href="https://github.com/anuraghazra/github-readme-stats">https://github.com/anuraghazra/github-readme-stats</a>
 </p>
 
 
