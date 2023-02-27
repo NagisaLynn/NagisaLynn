@@ -211,14 +211,14 @@
   </a>-->
  
   <a href="https://github.com/NagisaLynn">
-    <img width=45% height=200px src = "https://github-readme-stats-nagisalynn.vercel.app/api?username=NagisaLynn&count_private=true&hide_border=true&show_icons=true&line_height=27&theme=tokyonight"/>
+    <img width=45% height=200px src = "https://github-readme-stats.vercel.app/api?username=NagisaLynn&count_private=true&hide_border=true&show_icons=true&line_height=27&theme=tokyonight"/>
   </a>
   <a href="https://github.com/NagisaLynn">
      <img width=45% height=200px src="https://streak-stats.demolab.com/?user=NagisaLynn&theme=tokyonight&hide_border=true"/>
   </a>
   <br>
   <a href="https://github.com/NagisaLynn">
-    <img src = "https://github-readme-stats-nagisalynn.vercel.app/api/top-langs/?username=NagisaLynn&langs_count=8&count_private=true&hide_border=true&layout=compact&line_height=27&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NagisaLynn&langs_count=8&count_private=true&hide_border=true&layout=compact&line_height=27&theme=tokyonight">
   </a>
   
 </p>
