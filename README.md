@@ -14,18 +14,6 @@
   <a target="_blank" href="mailto:lynnnaingzaw@gmail.com"> <!-- Email -->
     <img alt="Email" src="https://img.shields.io/badge/Email%20-%231572B6.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a target="_blank" href="https://www.coursera.org/user/ad626ff97cae76d42ef9406baea2fd4c"> <!-- coursera -->
-    <img src="https://img.shields.io/badge/coursera%20-%231572B6.svg?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://stackoverflow.com/users/10222785/nagisa-lynn">  <!-- Stackoverflow -->
-    <img src="https://img.shields.io/badge/SOF%20-%231572B6.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.kaggle.com/nagisalynn">  <!-- Kaggle -->
-    <img src="https://img.shields.io/badge/kaggle%20-%231572B6.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.credly.com/users/lynn-naing-zaw/badges">  <!-- Credly -->
-    <img src="https://img.shields.io/badge/credly%20-%231572B6.svg?&style=for-the-badge&logo=Credly&logoColor=white" />
-  </a>
   <a target="_blank" href="#">  <!-- Count -->
     <img src="https://komarev.com/ghpvc/?username=NagisaLynn&style=for-the-badge" style="max-width: 100%;">
   </a>
@@ -48,10 +36,7 @@
 <p align="left" align='right'>
   <samp> 
     📍 Working : Currently working in Singapore.
-    <br> 🤪 Personality : INFP(core, natural state), INTJ(working mode) & Enneagram Type 5 Wing 6.
     <br> 🔭 Learning : Currently learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Process Automation 🤖.
-    <br> 🎾 Sport : Occasionally Cycling 🚲, Running 🏃, Swimming 🏊.
-    <br> 🎮 Game : A big fan of Civilization 6, Anno 1800, Monster Hunter, Total War: Warhammer & VR/AR Games.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
     <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
   </samp> 
