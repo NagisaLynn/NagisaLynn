@@ -1,6 +1,6 @@
 <h1 align="center">Lynn Naing Zaw (@NagisaLynn) </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Tech+Enthusiast;Software+Architect;Full-stack+app+%26+web+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&duration=3000&pause=500&color=0095FF&center=true&vCenter=true&width=300&height=60&lines=Tech+Enthusiast;Software+Architect;Full-stack+Developer;UI%2FUX+Designer"/>
   <br>
  </p>
 
