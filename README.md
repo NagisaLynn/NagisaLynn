@@ -26,8 +26,8 @@
 
  <p align="left">
   <samp>🔥 A passionate and driven software developer with a Bachelor of Science (Hons) in Computer Science from Coventry University and more than 5 years of experience in the IT industry.
-    <br>👨‍💻 My expertise lies in full-stack development using languages such as Javascript, Python, and C#, as well as frameworks such as Angular, Django and .NET.
-    <br>💻 Currently dealing with Microsoft ecosystem (majorly C#) at work while exploring on other programming languages, development stacks, continuous learning and staying up to date on the latest technologies at my free time.
+    <br>👨‍💻 My expertise lies in full-stack development using languages such as C# and Python.
+    <br>💻 Currently dealing with Microsoft ecosystem (majorly C#) at work while exploring and continuous learning other programming languages, development stacks and staying up to date on the latest technologies.
   </samp>
   <br/>
 </p>
@@ -35,7 +35,7 @@
 <h2 align="left">About me</h2>
 <p align="left" align='right'>
   <samp> 
-    📍 Working : Currently working in Singapore.
+    📍 Working : Currently working in Shinagawa, Japan.
     <br> 🔭 Learning : Currently learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Process Automation 🤖.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
     <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
@@ -54,9 +54,9 @@
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=R&sort=">
         <img alt="R" src="https://img.shields.io/badge/R%20-%231572B6.svg?&style=for-the-badge&logo=R&logoColor=white" /> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=HTML&sort=">
-        <img alt="HTML5" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" /> </a>
+        <img alt="HTML" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" /> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Css&sort=">
-        <img alt="Css3" src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> </a>
+        <img alt="CSS" src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=PHP&sort=">
         <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" /> </a> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Javascript&sort=">
@@ -81,9 +81,6 @@
         <img alt="pandas" src="https://img.shields.io/badge/pandas-1572B6.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery-1572B6.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />
         <img alt="Node.js" src="https://img.shields.io/badge/node.js-1572B6?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img alt="Angular" src="https://img.shields.io/badge/Angular-1572B6?style=for-the-badge&logo=angular&logoColor=white"/>
-        <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%231572B6?style=for-the-badge&logo=ionic&logoColor=white"/>
-        <img alt="Cordova" src="https://img.shields.io/badge/Cordova-%231572B6?style=for-the-badge&logo=ApacheCordova&logoColor=white"/>
         <img alt="NUnit" src="https://img.shields.io/badge/NUnit-%231572B6?style=for-the-badge&logo=Nunit&logoColor=white"/>
         <img alt="OpenCV" src="https://img.shields.io/badge/opencv-1572B6.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/SASS-1572B6.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -131,7 +128,7 @@
         <img alt="Blender" src="https://img.shields.io/badge/Blender-1572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
         <img alt="Adobe InDesign" src="https://img.shields.io/badge/adobe%20InDesign-1572B6.svg?&style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-1572B6.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-        <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd-1572B6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
+        <img alt="Figma" src="https://img.shields.io/badge/figma%20xd-1572B6.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-1572B6.svg?style=for-the-badge&logo=adobe%20Dreamweaver&logoColor=white" />
         <img alt="Pixlr E" src="https://img.shields.io/badge/pixlr%20e-1572B6.svg?style=for-the-badge&logo=pixlre&logoColor=white" />
       </a>
@@ -152,10 +149,9 @@
         <img alt="IIS" src="https://img.shields.io/badge/iis%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
         <img alt="Unity" src="https://img.shields.io/badge/unity%20-%231572B6.svg?&style=for-the-badge&logo=unity&logoColor=white" /> 
         <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
-        <img alt="UIPath" src="https://img.shields.io/badge/UIPath-1572B6?style=for-the-badge&logo=UIPath&logoColor=white" />
+        <img alt="UiPath" src="https://img.shields.io/badge/UIPath-1572B6?style=for-the-badge&logo=UiPath&logoColor=white" />
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-1572B6?style=for-the-badge&logo=kaggle&logoColor=white" />
         <img alt="Postman" src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white" />
-        <img alt="Selenium" src="https://img.shields.io/badge/selenium-1572B6?style=for-the-badge&logo=selenium&logoColor=white" />
       </a>
     </td> <!-- End of Tools --->
   </tr>
@@ -166,6 +162,7 @@
       <a href="#">
         <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> 
         <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /> 
+        <img alt="Linux" src="https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white" /> 
         <img alt="Android" src="https://img.shields.io/badge/Android%20-%231572B6.svg?&style=for-the-badge&logo=Android&logoColor=white" /> 
         <img alt="iOS" src="https://img.shields.io/badge/iOS%20-%231572B6.svg?&style=for-the-badge&logo=apple&logoColor=white" /> 
         <img alt="macOS" src="https://img.shields.io/badge/mac%20os-1572B6?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> 
@@ -229,7 +226,9 @@
 
 <!-- Generated by Readme Typing SVG -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=FFFFFF&vCenter=true&width=1100&height=80&lines=Thank+you+for+visiting!+See+you+again+soon!+%F0%9F%91%8B;%E3%81%8A%E8%B6%8A%E3%81%97%E9%A0%82%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81+%E3%81%BE%E3%81%9F%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86!+%F0%9F%91%8B;%E1%80%9C%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%9C%E1%80%8A%E1%80%BA%E1%80%95%E1%80%90%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AF%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA+%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%87%E1%80%B0%E1%80%B8%E1%80%90%E1%80%84%E1%80%BA%E1%80%95%E1%80%AB%E1%80%9E%E1%80%8A%E1%80%BA%E1%81%8B+%E1%80%99%E1%80%80%E1%80%BC%E1%80%AC%E1%80%81%E1%80%84%E1%80%BA+%E1%80%95%E1%80%BC%E1%80%94%E1%80%BA%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%80%E1%80%BC%E1%80%99%E1%80%9A%E1%80%BA!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<p align="center" align='right'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=FFFFFF&vCenter=true&width=1100&height=80&lines=Thank+you+for+visiting!+See+you+again+soon!+%F0%9F%91%8B;%E3%81%8A%E8%B6%8A%E3%81%97%E9%A0%82%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81+%E3%81%BE%E3%81%9F%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86!+%F0%9F%91%8B;%E1%80%9C%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%9C%E1%80%8A%E1%80%BA%E1%80%95%E1%80%90%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AF%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA+%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%87%E1%80%B0%E1%80%B8%E1%80%90%E1%80%84%E1%80%BA%E1%80%95%E1%80%AB%E1%80%9E%E1%80%8A%E1%80%BA%E1%81%8B+%E1%80%99%E1%80%80%E1%80%BC%E1%80%AC%E1%80%81%E1%80%84%E1%80%BA+%E1%80%95%E1%80%BC%E1%80%94%E1%80%BA%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%80%E1%80%BC%E1%80%99%E1%80%9A%E1%80%BA!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
 <!---
 NagisaLynn/NagisaLynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
