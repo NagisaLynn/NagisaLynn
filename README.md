@@ -8,7 +8,7 @@
   <a target="_blank" href="https://lynnnaing.dev/"> 
     <img src="https://img.shields.io/badge/lynnnaing.dev-1572B6?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   </a><!-- Website -->
-  <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
+  <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->F
     <img src="https://img.shields.io/badge/LinkedIn-1572B6.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a target="_blank" href="mailto:lynnnaingzaw@gmail.com"> <!-- Email -->
@@ -199,12 +199,12 @@
      <img width=45% height=200px src="https://streak-stats.demolab.com/?user=NagisaLynn&theme=tokyonight&hide_border=true"/>
   </a>
   <br>
-  <a href="https://github.com/NagisaLynn">
+ <!--  <a href="https://github.com/NagisaLynn">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NagisaLynn&langs_count=8&count_private=true&hide_border=true&layout=compact&line_height=27&theme=tokyonight">
-  </a>
+  </a>-->
   
 </p>
-<b>Note:</b> Most used languages is a metric of the languages based on the public repository not private!
+<!-- <b>Note:</b> Most used languages is a metric of the languages based on the public repository not private!-->
 <br>
 <br>
 
