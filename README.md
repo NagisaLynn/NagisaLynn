@@ -8,7 +8,7 @@
   <a target="_blank" href="https://lynnnaing.dev/"> 
     <img src="https://img.shields.io/badge/lynnnaing.dev-1572B6?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   </a><!-- Website -->
-  <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->F
+  <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
     <img src="https://img.shields.io/badge/LinkedIn-1572B6.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a target="_blank" href="mailto:lynnnaingzaw@gmail.com"> <!-- Email -->
@@ -58,8 +58,6 @@
         <img alt="HTML" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" /> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Css&sort=">
         <img alt="CSS" src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> </a>
-      <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=PHP&sort=">
-        <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" /> </a> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Javascript&sort=">
         <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Typescript&sort=">
@@ -71,19 +69,15 @@
    <th>Frameworks & Libraries</th>
     <td> <!-- Frameworks --->
       <a href="#">
-        <img alt="NET" src="https://img.shields.io/badge/-.NET-%231572B6?style=for-the-badge&logo=%2ENET&logoColor=white"/>
         <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-%231572B6?style=for-the-badge&logo=Xamarin&logoColor=white"/>
         <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=%2ENETMAUI&logoColor=white"/>
         <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%231572B6?style=for-the-badge&logo=Blazor&logoColor=white"/>
         <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=windows&logoColor=white"/>
         <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
         <img alt="Django" src="https://img.shields.io/badge/Django-1572B6?style=for-the-badge&logo=django&logoColor=white"/>
-        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1572B6.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
         <img alt="pandas" src="https://img.shields.io/badge/pandas-1572B6.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery-1572B6.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />
         <img alt="Node.js" src="https://img.shields.io/badge/node.js-1572B6?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img alt="NUnit" src="https://img.shields.io/badge/NUnit-%231572B6?style=for-the-badge&logo=Nunit&logoColor=white"/>
-        <img alt="OpenCV" src="https://img.shields.io/badge/opencv-1572B6.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img alt="SASS" src="https://img.shields.io/badge/SASS-1572B6.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
         <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-1572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       </a>
@@ -94,15 +88,15 @@
     <th>Services, Hosting & SASS</th>
     <td> <!-- Services --->
       <a href="#">
-        <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google Cloud Platform-%231572B6.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" /> 
-        <img alt="Azure" src="https://img.shields.io/badge/Azure-%231572B6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
-        <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-%231572B6.svg?&style=for-the-badge&logo=AzureDevOps&logoColor=white" /> 
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-%231572B6.svg?&style=for-the-badge&logo=amazon&logoColor=white" /> 
+        <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-%231572B6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
+       <!--  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-%231572B6.svg?&style=for-the-badge&logo=AzureDevOps&logoColor=white" /> --->
         <img alt="Vercel" src="https://img.shields.io/badge/vercel-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
         <img alt="Stripe" src="https://img.shields.io/badge/Stripe-1572B6.svg?&style=for-the-badge&logo=Stripe&logoColor=white" />
         <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
         <img alt="Npm" src="https://img.shields.io/badge/Npm-%231572B6.svg?&style=for-the-badge&logo=Npm&logoColor=white" /> 
         <img alt="Docker" src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=Docker&logoColor=white" /> 
-        <img alt="Swagger" src="https://img.shields.io/badge/Swagger-%231572B6.svg?&style=for-the-badge&logo=Swagger&logoColor=white" /> 
+        <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-%231572B6.svg?&style=for-the-badge&logo=Swagger&logoColor=white" /> 
         <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%231572B6.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" /> 
       </a>
     </td>  <!-- End of Services --->
