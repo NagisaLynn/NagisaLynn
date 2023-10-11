@@ -25,18 +25,19 @@
 </table>
 
  <p align="left">
-  <samp>🔥 A passionate and driven software developer with a Bachelor of Science (Hons) in Computer Science from Coventry University and more than 5 years of experience in the IT industry.
-    <br>👨‍💻 My expertise lies in full-stack development using languages such as C# and Python.
-    <br>💻 Currently dealing with Microsoft ecosystem (majorly C#) at work while exploring and continuous learning other programming languages, development stacks and staying up to date on the latest technologies.
+  <samp>🔥 A passionate software developer with a Bachelor of Science (Hons) in Computer Science from Coventry University.
+    <br>🖥️ Have more than 6 years experience in the software development industry.
+    <br>👨‍💻 Expertise lies in full-stack development in web & mobile utilizing C# and Python languages.
+    <br>💻 Currently dealing with Microsoft ecosystem (C#, .NET, Azure, Power Automate) at work. 
+    <br>📚 Continuous learning other programming languages, development stacks and staying up to date on the latest technologies.
   </samp>
   <br/>
 </p>
 
 <h2 align="left">About me</h2>
 <p align="left" align='right'>
-  <samp> 
-    📍 Working : Currently working in Shinagawa, Japan.
-    <br> 🔭 Learning : Currently learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Process Automation 🤖.
+  <samp> 📍 Location : Currently base in Shinagawa, Japan.
+    <br> 🔭 Learning : Learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Robotic Process Automation 🤖.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
     <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
   </samp> 
