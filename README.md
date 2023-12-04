@@ -36,7 +36,7 @@
 
 <h2 align="left">About me</h2>
 <p align="left" align='right'>
-  <samp> 📍 Location : Currently base in Shinagawa, Japan.
+  <samp> 📍 Location : Currently base in Taito, Japan.
     <br> 🔭 Learning : Learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Robotic Process Automation 🤖.
     <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
     <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
@@ -70,7 +70,8 @@
     <td> <!-- Frameworks --->
       <a href="#">
         <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-%231572B6?style=for-the-badge&logo=Xamarin&logoColor=white"/>
-        <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=%2ENETMAUI&logoColor=white"/>
+        <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=MAUI&logoColor=white"/>
+        <img alt="Avalonia" src="https://img.shields.io/badge/Avalonia-%231572B6?style=for-the-badge&logo=Avalonia&logoColor=white"/>
         <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%231572B6?style=for-the-badge&logo=Blazor&logoColor=white"/>
         <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=windows&logoColor=white"/>
         <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
