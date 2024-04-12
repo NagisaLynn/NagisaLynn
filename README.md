@@ -23,7 +23,7 @@
   <samp> 📍 Just a ordinary software developer currently base in Tokyo, Japan.
     <br> 👨‍💻 Expertise : Full-stack development (web, window & mobile) utilizing Microsoft ecosystem (C#, .NET, Azure) & Python.
     <br> 🔭 Learning : Learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Robotic Process Automation 🤖.
-    <br> 🎌 Language : English 🇬🇧, Japanese 🇯🇵, Myanmar 🇲🇲
+    <br> 🎌 Language : English 🇬🇧, Japanese 🇯🇵, Myanmar 🇲🇲 (Stupid Flag Emoji on Window)
     <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
   </samp> 
 </p>
