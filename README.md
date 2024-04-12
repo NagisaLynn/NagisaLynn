@@ -1,17 +1,11 @@
-<h1 align="center">Lynn Naing Zaw (@NagisaLynn) </h1>
+<h1 align="center">Nagisa Lynn (@NagisaLynn) </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&duration=3000&pause=500&color=0095FF&center=true&vCenter=true&width=300&height=60&lines=Tech+Enthusiast;Software+Architect;Full-stack+Developer;UI%2FUX+Designer"/>
   <br>
  </p>
 
 <p align="center" align='right'>
-  <a target="_blank" href="https://lynnnaing.dev/"> 
-    <img src="https://img.shields.io/badge/lynnnaing.dev-1572B6?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
-  </a><!-- Website -->
-  <a target="_blank" href="https://www.linkedin.com/in/lynn-naing-zaw-a2a700148/"> <!-- LinkedIn -->
-    <img src="https://img.shields.io/badge/LinkedIn-1572B6.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a target="_blank" href="mailto:lynnnaingzaw@gmail.com"> <!-- Email -->
+  <a target="_blank" href="mailto:kuroyuki.mizu@gmail.com"> <!-- Email -->
     <img alt="Email" src="https://img.shields.io/badge/Email%20-%231572B6.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a target="_blank" href="#">  <!-- Count -->
@@ -24,21 +18,12 @@
 <!--  <tr><td><a href="https://github.com/NagisaLynn/NagisaLynn/blob/main/README.md">🇯🇵 Japanese</a></td></tr> -->
 </table>
 
- <p align="left">
-  <samp>🔥 A passionate software developer with a Bachelor of Science (Hons) in Computer Science from Coventry University.
-    <br>🖥️ Have more than 6 years experience in the software development industry.
-    <br>👨‍💻 Expertise lies in full-stack development in web & mobile utilizing C# and Python languages.
-    <br>💻 Currently dealing with Microsoft ecosystem (C#, .NET, Azure, Power Automate) at work. 
-    <br>📚 Continuous learning other programming languages, development stacks and staying up to date on the latest technologies.
-  </samp>
-  <br/>
-</p>
-
 <h2 align="left">About me</h2>
 <p align="left" align='right'>
-  <samp> 📍 Location : Currently base in Taito, Japan.
+  <samp> 📍 Just a ordinary software developer currently base in Tokyo, Japan.
+    <br> 👨‍💻 Expertise : Full-stack development (web, window & mobile) utilizing Microsoft ecosystem (C#, .NET, Azure) & Python.
     <br> 🔭 Learning : Learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Robotic Process Automation 🤖.
-    <br> 🎌 Language : Myanmar 🇲🇲 (Native), English 🇬🇧 & Japanese 🇯🇵 (Professional working Proficiency)
+    <br> 🎌 Language : English 🇬🇧, Japanese 🇯🇵, Myanmar 🇲🇲
     <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
   </samp> 
 </p>
