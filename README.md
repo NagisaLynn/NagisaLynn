@@ -20,11 +20,11 @@
 
 <h2 align="left">About me</h2>
 <p align="left" align='right'>
-  <samp> 📍 Just a ordinary software developer currently base in Tokyo, Japan.
-    <br> 👨‍💻 Expertise : Full-stack development (web, window & mobile) utilizing Microsoft ecosystem (C#, .NET, Azure) & Python.
-    <br> 🔭 Learning : Learning Machine Learning 🖥️, AI 🌐, Computer Vision 👁️‍🗨️, Robotic Process Automation 🤖.
-    <br> 🎌 Language : English 🇬🇧, Japanese 🇯🇵, Myanmar 🇲🇲 (Stupid Flag Emoji on Window)
-    <br> 😎 Attitude : Curious, Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
+  <samp> 📍 Just an ordinary software developer currently in Tokyo.
+    <br> 👨‍💻 Expertise : Full-stack development (web, window & mobile) utilizing Microsoft ecosystem C#.NET & Python.
+    <br> 🔭 Learning : ML, AI, Computer Vision.
+    <br> 🎌 Language : English 🇬🇧, Japanese 🇯🇵
+    <br> 😎 Attitude : Kaizen (continuous improvement and learning), Jack of all trades with enough invested time, can be master of all 😎. 
   </samp> 
 </p>
 
@@ -53,20 +53,17 @@
   <tr>
    <th>Frameworks & Libraries</th>
     <td> <!-- Frameworks --->
-      <a href="#">
-        <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-%231572B6?style=for-the-badge&logo=Xamarin&logoColor=white"/>
-        <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=MAUI&logoColor=white"/>
-        <img alt="Avalonia" src="https://img.shields.io/badge/Avalonia-%231572B6?style=for-the-badge&logo=Avalonia&logoColor=white"/>
-        <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%231572B6?style=for-the-badge&logo=Blazor&logoColor=white"/>
-        <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=windows&logoColor=white"/>
-        <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
-        <img alt="Django" src="https://img.shields.io/badge/Django-1572B6?style=for-the-badge&logo=django&logoColor=white"/>
-        <img alt="pandas" src="https://img.shields.io/badge/pandas-1572B6.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-1572B6.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />
-        <img alt="Node.js" src="https://img.shields.io/badge/node.js-1572B6?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img alt="SASS" src="https://img.shields.io/badge/SASS-1572B6.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-        <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-1572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-      </a>
+      <img alt=".NET MAUI" src="https://img.shields.io/badge/MAUI-%231572B6?style=for-the-badge&logo=MAUI&logoColor=white"/>
+      <img alt="Avalonia" src="https://img.shields.io/badge/Avalonia-%231572B6?style=for-the-badge&logo=Avalonia&logoColor=white"/>
+      <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%231572B6?style=for-the-badge&logo=Blazor&logoColor=white"/>
+      <img alt="UWP" src="https://img.shields.io/badge/UMP-%231572B6?style=for-the-badge&logo=windows&logoColor=white"/>
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-%231572B6?style=for-the-badge&logo=unity&logoColor=white"/>
+      <img alt="Django" src="https://img.shields.io/badge/Django-1572B6?style=for-the-badge&logo=django&logoColor=white"/>
+      <img alt="pandas" src="https://img.shields.io/badge/pandas-1572B6.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img alt="jQuery" src="https://img.shields.io/badge/jQuery-1572B6.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />
+      <img alt="Node.js" src="https://img.shields.io/badge/node.js-1572B6?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img alt="SASS" src="https://img.shields.io/badge/SASS-1572B6.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+      <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-1572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     </td> <!-- End of Frameworks --->
   </tr>
   
@@ -75,12 +72,8 @@
     <td> <!-- Services --->
       <a href="#">
         <img alt="AWS" src="https://img.shields.io/badge/AWS-%231572B6.svg?&style=for-the-badge&logo=amazon&logoColor=white" /> 
-        <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-%231572B6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
-       <!--  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-%231572B6.svg?&style=for-the-badge&logo=AzureDevOps&logoColor=white" /> --->
-        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%231572B6.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img alt="MS Azure" src="https://img.shields.io/badge/Microsoft Azure-%231572B6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
         <img alt="Stripe" src="https://img.shields.io/badge/Stripe-1572B6.svg?&style=for-the-badge&logo=Stripe&logoColor=white" />
-        <img alt="Nuget" src="https://img.shields.io/badge/Nuget-%231572B6.svg?&style=for-the-badge&logo=nuget&logoColor=white" /> 
-        <img alt="Npm" src="https://img.shields.io/badge/Npm-%231572B6.svg?&style=for-the-badge&logo=Npm&logoColor=white" /> 
         <img alt="Docker" src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=Docker&logoColor=white" /> 
         <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-%231572B6.svg?&style=for-the-badge&logo=Swagger&logoColor=white" /> 
         <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%231572B6.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" /> 
@@ -95,7 +88,6 @@
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1572B6.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> 
         <img alt="SQL Server" src="https://img.shields.io/badge/MS%20sql%20server-1572B6.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
         <img alt="MySQL" src="https://img.shields.io/badge/MySql-1572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1572B6.svg?&style=for-the-badge&logo=SQLite&logoColor=white" />
         <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1572B6.svg?&style=for-the-badge&logo=ApacheCassandra&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1572B6.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />  
       </a>
@@ -107,10 +99,10 @@
     <td>  <!-- Design --->
       <a href="#">
         <img alt="Blender" src="https://img.shields.io/badge/Blender-1572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
-        <img alt="Adobe InDesign" src="https://img.shields.io/badge/adobe%20InDesign-1572B6.svg?&style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
-        <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-1572B6.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-        <img alt="Figma" src="https://img.shields.io/badge/figma%20xd-1572B6.svg?style=for-the-badge&logo=figma&logoColor=white" />
-        <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-1572B6.svg?style=for-the-badge&logo=adobe%20Dreamweaver&logoColor=white" />
+        <img alt="InDesign" src="https://img.shields.io/badge/adobe%20InDesign-1572B6.svg?&style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
+        <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-1572B6.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+        <img alt="Figma" src="https://img.shields.io/badge/figma%20-1572B6.svg?style=for-the-badge&logo=figma&logoColor=white" />
+        <img alt="Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-1572B6.svg?style=for-the-badge&logo=adobe%20Dreamweaver&logoColor=white" />
         <img alt="Pixlr E" src="https://img.shields.io/badge/pixlr%20e-1572B6.svg?style=for-the-badge&logo=pixlre&logoColor=white" />
       </a>
     </td> <!-- End of Design --->
@@ -120,17 +112,14 @@
     <th>Tools</th>
     <td>  <!-- Tools --->
       <a href="#">
-        <img alt="GitHub" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white" />
         <img alt="Git" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />
         <img alt="Visual Studio" src="https://img.shields.io/badge/visual studio%20-%231572B6.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-1572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
         <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%231572B6.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
         <img alt="Xcode" src="https://img.shields.io/badge/Xcode%20-%231572B6.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
         <img alt="Android Studio" src="https://img.shields.io/badge/android studio%20-%231572B6.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />
-        <img alt="IIS" src="https://img.shields.io/badge/iis%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
         <img alt="Unity" src="https://img.shields.io/badge/unity%20-%231572B6.svg?&style=for-the-badge&logo=unity&logoColor=white" /> 
-        <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
-        <img alt="UiPath" src="https://img.shields.io/badge/UIPath-1572B6?style=for-the-badge&logo=UiPath&logoColor=white" />
+        <img alt="MS Office" src="https://img.shields.io/badge/Microsoft%20office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-1572B6?style=for-the-badge&logo=kaggle&logoColor=white" />
         <img alt="Postman" src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white" />
       </a>
@@ -154,15 +143,6 @@
     </td> <!-- End of Platform --->
   </tr>
   
-<!--   <tr> Template or Misc?
-    <th>Misc</th>
-    <td>
-      <a href="#">
-        <img alt="OpenAPI" src="https://img.shields.io/badge/RESTful API%20-%231572B6.svg?&style=for-the-badge&logo=RESTfulAPI&logoColor=white" /> 
-        <img alt="Game Dev" src="https://img.shields.io/badge/game dev%20-%231572B6.svg?&style=for-the-badge&logo=playstationcontroller&logoColor=white" /> 
-      </a>
-    </td> 
-   </tr> -->
 </table>
 <br/>
 
@@ -208,7 +188,7 @@
 <!-- Generated by Readme Typing SVG -->
 
 <p align="center" align='right'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=FFFFFF&vCenter=true&width=1100&height=80&lines=Thank+you+for+visiting!+See+you+again+soon!+%F0%9F%91%8B;%E3%81%8A%E8%B6%8A%E3%81%97%E9%A0%82%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81+%E3%81%BE%E3%81%9F%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86!+%F0%9F%91%8B;%E1%80%9C%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%9C%E1%80%8A%E1%80%BA%E1%80%95%E1%80%90%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AF%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA+%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%87%E1%80%B0%E1%80%B8%E1%80%90%E1%80%84%E1%80%BA%E1%80%95%E1%80%AB%E1%80%9E%E1%80%8A%E1%80%BA%E1%81%8B+%E1%80%99%E1%80%80%E1%80%BC%E1%80%AC%E1%80%81%E1%80%84%E1%80%BA+%E1%80%95%E1%80%BC%E1%80%94%E1%80%BA%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%80%E1%80%BC%E1%80%99%E1%80%9A%E1%80%BA!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Arial&size=30&pause=1000&color=FFFFFF&vCenter=true&width=1100&height=80&lines=Thank+you+for+visiting!+See+you+again+soon!+%F0%9F%91%8B;%E3%81%8A%E8%B6%8A%E3%81%97%E9%A0%82%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81+%E3%81%BE%E3%81%9F%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86!+%F0%9F%91%8B;" alt="Typing SVG" /></a>
 </p>
 
 <!---
