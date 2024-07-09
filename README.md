@@ -8,9 +8,7 @@
   <a target="_blank" href="mailto:kuroyuki.mizu@gmail.com"> <!-- Email -->
     <img alt="Email" src="https://img.shields.io/badge/Email%20-%231572B6.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a target="_blank" href="#">  <!-- Count -->
     <img src="https://komarev.com/ghpvc/?username=NagisaLynn&style=for-the-badge" style="max-width: 100%;">
-  </a>
 </p>
 
 <table> <!-- Translation Service -->
@@ -37,16 +35,11 @@
         <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%231572B6.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
       <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=python&sort=">
         <img alt="Python" src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a>
-      <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=R&sort=">
-        <img alt="R" src="https://img.shields.io/badge/R%20-%231572B6.svg?&style=for-the-badge&logo=R&logoColor=white" /> </a>
-      <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=HTML&sort=">
-        <img alt="HTML" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" /> </a>
-      <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Css&sort=">
-        <img alt="CSS" src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> </a>
-      <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Javascript&sort=">
-        <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> </a>
-      <a href="https://github.com/NagisaLynn?tab=repositories&q=&type=&language=Typescript&sort=">
-        <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%231572B6.svg?&style=for-the-badge&logo=Typescript&logoColor=white" /> </a>
+        <img alt="R" src="https://img.shields.io/badge/R%20-%231572B6.svg?&style=for-the-badge&logo=R&logoColor=white" />
+        <img alt="HTML" src="https://img.shields.io/badge/Html5%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+        <img alt="CSS" src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+        <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+        <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%231572B6.svg?&style=for-the-badge&logo=Typescript&logoColor=white" />
     </td> <!-- End of Languages --->
   </tr>
   
@@ -70,48 +63,41 @@
   <tr>
     <th>Services, Hosting & SASS</th>
     <td> <!-- Services --->
-      <a href="#">
         <img alt="AWS" src="https://img.shields.io/badge/AWS-%231572B6.svg?&style=for-the-badge&logo=amazon&logoColor=white" /> 
         <img alt="MS Azure" src="https://img.shields.io/badge/Microsoft Azure-%231572B6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
         <img alt="Stripe" src="https://img.shields.io/badge/Stripe-1572B6.svg?&style=for-the-badge&logo=Stripe&logoColor=white" />
         <img alt="Docker" src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=Docker&logoColor=white" /> 
         <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-%231572B6.svg?&style=for-the-badge&logo=Swagger&logoColor=white" /> 
         <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%231572B6.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" /> 
-      </a>
     </td>  <!-- End of Services --->
   </tr>
   
    <tr>
     <th>Databases</th>
     <td>  <!-- Databases --->
-      <a href="#">
         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1572B6.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> 
         <img alt="SQL Server" src="https://img.shields.io/badge/MS%20sql%20server-1572B6.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
         <img alt="MySQL" src="https://img.shields.io/badge/MySql-1572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
         <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1572B6.svg?&style=for-the-badge&logo=ApacheCassandra&logoColor=white" />
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1572B6.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />  
-      </a>
     </td> <!-- End of Databases --->
   </tr>
   
   <tr>
     <th>Design</th>
     <td>  <!-- Design --->
-      <a href="#">
         <img alt="Blender" src="https://img.shields.io/badge/Blender-1572B6.svg?&style=for-the-badge&logo=blender&logoColor=white" />
         <img alt="InDesign" src="https://img.shields.io/badge/adobe%20InDesign-1572B6.svg?&style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
         <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-1572B6.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
         <img alt="Figma" src="https://img.shields.io/badge/figma%20-1572B6.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <img alt="Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-1572B6.svg?style=for-the-badge&logo=adobe%20Dreamweaver&logoColor=white" />
         <img alt="Pixlr E" src="https://img.shields.io/badge/pixlr%20e-1572B6.svg?style=for-the-badge&logo=pixlre&logoColor=white" />
-      </a>
     </td> <!-- End of Design --->
   </tr>
   
   <tr>
     <th>Tools</th>
     <td>  <!-- Tools --->
-      <a href="#">
         <img alt="Git" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />
         <img alt="Visual Studio" src="https://img.shields.io/badge/visual studio%20-%231572B6.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/visual%20studio%20code-1572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -122,14 +108,12 @@
         <img alt="MS Office" src="https://img.shields.io/badge/Microsoft%20office%20-%231572B6.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" /> 
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-1572B6?style=for-the-badge&logo=kaggle&logoColor=white" />
         <img alt="Postman" src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white" />
-      </a>
     </td> <!-- End of Tools --->
   </tr>
   
   <tr>
     <th>Platform</th>
     <td> <!-- Platform --->
-      <a href="#">
         <img alt="Window" src="https://img.shields.io/badge/window%20-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> 
         <img alt="Web" src="https://img.shields.io/badge/web%20-%231572B6.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /> 
         <img alt="Linux" src="https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white" /> 
@@ -139,7 +123,6 @@
         <img alt="VR" src="https://img.shields.io/badge/VR%20-%231572B6.svg?&style=for-the-badge&logo=virtualreality&logoColor=white" /> 
         <img alt="AI" src="https://img.shields.io/badge/AI%20-%231572B6.svg?&style=for-the-badge&logo=I&logoColor=white" /> 
         <img alt="IoT" src="https://img.shields.io/badge/iot%20-%231572B6.svg?&style=for-the-badge&logo=iot&logoColor=white" /> 
-      </a>
     </td> <!-- End of Platform --->
   </tr>
   
