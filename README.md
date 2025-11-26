@@ -1,4 +1,4 @@
-<h1 align="center">Nagisa Lynn (@NagisaLynn) </h1>
+<h1 align="center">ZNLynn</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=30&duration=3000&pause=500&color=0095FF&center=true&vCenter=true&width=300&height=60&lines=Tech+Enthusiast;Software+Architect;Full-stack+Developer;UI%2FUX+Designer"/>
   <br>
